@@ -1,0 +1,10 @@
+ for (int i = n - 1; i >= 1; --i) {
+//        for (int j = 0; j < i; ++j) {
+//            if (arrOfBiggest[i] > arrOfBiggest[i + 1]) {
+//                swap(arrOfBiggest[i], arrOfBiggest[i + 1]);
+////                for (int k = 0; k  < n; k++) {
+////                    swap(X[i][t], X[i + 1][t]);
+////                }
+//            }
+//        }
+//    }
