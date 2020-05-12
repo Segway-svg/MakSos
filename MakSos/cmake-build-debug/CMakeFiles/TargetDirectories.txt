@@ -1,0 +1,3 @@
+C:/Users/tukat/CLionProjects/MakSos/cmake-build-debug/CMakeFiles/MakSos.dir
+C:/Users/tukat/CLionProjects/MakSos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tukat/CLionProjects/MakSos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
